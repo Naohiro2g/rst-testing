@@ -8,10 +8,8 @@ Installation
 sudo apt-get install libjpeg62-turbo-dev libjpeg-dev
 sudo -H pip3 install --upgrade luma.oled
 
-
-
-
-## SPI connection of my display module (VCC and GND was reversed !)
+SPI connection of my display module (VCC and GND was reversed !)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 ========== ====== ============ ====================
 OLED Pin   Name   Remarks      RPi Function
