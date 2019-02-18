@@ -2,11 +2,10 @@ Read the great document at https://ssd1306.readthedocs.io/en/latest/
 
 Installation
 ^^^^^^^^^^^^
+::
 
-..
-
-sudo apt-get install libjpeg62-turbo-dev libjpeg-dev
-sudo -H pip3 install --upgrade luma.oled
+    sudo apt-get install libjpeg62-turbo-dev libjpeg-dev
+    sudo -H pip3 install --upgrade luma.oled
 
 SPI connection of my display module (VCC and GND was reversed !)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
